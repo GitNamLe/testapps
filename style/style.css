@@ -1,0 +1,29 @@
+/* brand-logo stlying */
+.navbar-brand{
+    font-family: serif;
+    font-style: italic;
+}
+#navbar-brand{
+    font-size: 25px;
+}
+
+.profile-round{ 
+    border-radius: 50%;
+}
+
+/* navbar profile pic sizing */
+.profile-navbar{
+    width: 27px;
+    height: 27px;
+    margin-right: 4px;
+}
+
+#body {
+    background-color: lightgray;
+}
+
+.category{
+    text-align: center;
+    border-style: solid;
+    padding: 35px;
+}
